@@ -64,40 +64,40 @@ Actual time needed to complete: 1 hour
 
 ### Feature 1: Pagination
 
-Estimate of time needed to complete: ______
+Estimate of time needed to complete: 2 hours
 
-Start time: ______
+Start time: 9:00
 
-Finish time: __________
+Finish time: 10:30
 
-Actual time needed to complete: ________
+Actual time needed to complete: 1 1/2 hours
 
 ### Feature 2: Templating
 
-Estimate of time needed to complete: ________
+Estimate of time needed to complete: 2 hours
 
-Start time: ________
+Start time: 10:30
 
-Finish time: ________
+Finish time: 12:00
 
-Actual time needed to complete: ________
+Actual time needed to complete: 1 1/2 hours
 
 ### Feature 3: Styling with Flexbox
 
-Estimate of time needed to complete: ________
+Estimate of time needed to complete: 1 hour
 
-Start time: ________
+Start time: 1130
 
-Finish time: ________
+Finish time: 1230
 
-Actual time needed to complete: ________
+Actual time needed to complete: 1 hour
 
 ### Feature 4: Sort the images
 
-Estimate of time needed to complete: ________
+Estimate of time needed to complete: 1 hour
 
-Start time: ________
+Start time: 12:30
 
-Finish time: ________
+Finish time: 1:45
 
-Actual time needed to complete: ________
+Actual time needed to complete: 1 hour
